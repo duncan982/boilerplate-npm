@@ -1,5 +1,7 @@
 {
-    "author": "Duncan Ndegwa",
+    "author": {
+        "Duncan Ndegwa"
+    },
     "name": "fcc-learn-npm-package-json",
     "dependencies": {
         "express": "^4.14.0"
